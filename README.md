@@ -95,3 +95,4 @@ git clone https://github.com/mahithamathangi-glitch/confidence-interval-analysis
 ## Version History
 
 Version 1.0 - Initial confidence interval analysis project.
+
